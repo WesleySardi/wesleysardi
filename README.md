@@ -1,7 +1,7 @@
 ## Olá! Bem-vindo ao meu GitHub.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleysardi&show_icons=true&theme=neon)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysardi&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/wesleysardi/github-readme-stats)
 
 
 - 🔭 Em busca de emprego
