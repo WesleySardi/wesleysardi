@@ -2,6 +2,8 @@
 
 ![WesleySardi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleysardi&show_icons=true&theme=neon)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysardi&langs_count=8&theme=neon)
+
 - 🔭 Em busca de emprego
 - 🌱 Estudando React.js
 - 📫 Contate-me no email: wesley.sardi@gmail.com
